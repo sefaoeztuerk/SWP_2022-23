@@ -1,0 +1,57 @@
+.Headline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 20px;   
+}
+.number1{
+    width: 100px;
+}
+.number2{
+    width: 100px;
+}
+
+.subtract{
+    display: flex;
+  align-items:center;
+  justify-content: center;
+  margin: 20px;
+}
+.number3{
+    width: 100px;
+}
+.number4{
+    width: 100px;
+}
+
+.multiply{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.number5{
+    width: 100px;
+}
+.number6{
+    width: 100px;
+}
+
+.divide{
+    display: flex;
+  align-items: center;
+  justify-content: center;margin: 20px;
+}
+.number7{
+    width: 100px;
+}
+.number8{
+    width: 100px;
+}
