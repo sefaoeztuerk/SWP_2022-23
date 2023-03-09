@@ -38,7 +38,7 @@ function tokenize(code){
     ];
 
     const statements = code.split(' ');
-    const tokens [];
+    const tokens = [];
     REGEXES.forEach((REGEX) =>{
         statements.forEach((statement) =>{
             tokens.push( );
